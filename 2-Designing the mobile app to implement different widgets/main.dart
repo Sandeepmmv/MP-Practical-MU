@@ -1,4 +1,4 @@
-practical no. 2 
+//practical no. 2 
 
 import 'package:flutter/material.dart';
 
